@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  simplenet.core:
-    image: simplenet.core
-    build:
-      context: ./SimpleNet.Core
-      dockerfile: Dockerfile
